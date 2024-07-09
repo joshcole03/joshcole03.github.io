@@ -1,1 +1,8 @@
-# joshcole03.github.io
+# Data Analytics
+
+### Education
+Mathematics, BA
+
+### Work Experience
+
+### Projects
