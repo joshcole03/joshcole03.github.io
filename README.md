@@ -3,8 +3,8 @@
 #### Technical Skills: R programming, SQL, Excel
 
 ## Education
--B.A., Mathamatics | The University of Oklahoma (2021 - _Current_) 
--M.S., Finance | The University of Oklahoma (2024 - _Current_)
+- B.A., Mathamatics | The University of Oklahoma (2021 - _Current_) 
+- M.S., Finance | The University of Oklahoma (2024 - _Current_)
 - Google Data Analytics Certifcate | Coursera (2024)
 - Osha 10 Certifcate
 
