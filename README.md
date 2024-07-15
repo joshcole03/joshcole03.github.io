@@ -1,6 +1,6 @@
-<h1>Welcome, I'm Josh! </h1>
+<h1>We've Been Waiting on You! Welcome,  I'm Josh! 🐢 </h1>
 
-<h2>🎓Education & Certifications</h2>
+<h2>🎓Education & Certifications:</h2>
 
 - <b> The University of Oklahoma | Aug. 2021 - Current</b>
   - Mathematics Accelerated B.S. & Finance M.D.
@@ -8,7 +8,7 @@
 
 - <b> OSHA 10 <b>
 
-<h2> 💼 Work Experience</h2>
+<h2> 💼 Work Experience:</h2>
 
 - <b> Group Lead @ Alpha Best Education| Aug. 2022 </b> 
   - Created and Organize Activites for Children Education and Well Being
@@ -23,6 +23,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2> 💸 Cater To You Tutorials: (Finance) 💸</h2>
 
 <h2>📺 Fun AMV Youtube Videos I Make</h2>
 
