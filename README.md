@@ -1,15 +1,30 @@
 <h1>Welcome, I'm Josh! </h1>
 
-<h2>Education & Certifications</h2>
+<h2>🎓Education & Certifications</h2>
 
-<h2> Work Experience</h2>
+- <b> University of Oklahoma | Dodge College of Arts & Science | Aug. 2021 - Current</b>
+  - Mathematics Accelerated B.S. & Finance M.D.
+- <b> [Google Data Analytics](https://www.credly.com/badges/1dbbd855-e73c-4416-9306-9554b1535517/linked_in_profile) | Coursera <b>
+
+- <b> OSHA 10 <b>
+
+<h2> 💼 Work Experience</h2>
+
+- <b> Group Lead @ Alpha Best Education</b> | Aug. 2022
+  - Created and Organize Activites for Children Education and Well Being
+  - Tutored and Assist Children with Math Homework
+    
+- <b> Assistant Intern @ O'Neal Construction Remodling Service | Apr. 2018</b>
+  - Assist on Remodeling Projects Using Measuring and Contruction tools
+  - Organize and Handling Client Meetings
+
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Edited Youtube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
