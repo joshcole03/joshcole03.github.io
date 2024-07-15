@@ -2,7 +2,7 @@
 
 <h2>🎓Education & Certifications</h2>
 
-- <b> University of Oklahoma | Dodge College of Arts & Science | Aug. 2021 - Current</b>
+- <b> University of Oklahoma | Aug. 2021 - Current</b>
   - Mathematics Accelerated B.S. & Finance M.D.
 - <b> [Google Data Analytics](https://www.credly.com/badges/1dbbd855-e73c-4416-9306-9554b1535517/linked_in_profile) | Coursera <b>
 
