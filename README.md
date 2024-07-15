@@ -1,9 +1,5 @@
 <h1>Welcome, I'm Josh! </h1>
 
-<h2> 🙋‍♂️ About Me</h2>
-
-
-
 <h2>🎓Education & Certifications</h2>
 
 - <b> The University of Oklahoma | Aug. 2021 - Current</b>
@@ -28,9 +24,10 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Edited Youtube Videos</h2>
+<h2>📺 Fun AMV Youtube Videos I Make</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <h2> 🤳 Connect with me:</h2>
 
