@@ -1,5 +1,9 @@
 <h1>Welcome, I'm Josh! </h1>
 
+<h2> 🙋‍♂️ About Me</h2>
+
+
+
 <h2>🎓Education & Certifications</h2>
 
 - <b> The University of Oklahoma | Aug. 2021 - Current</b>
